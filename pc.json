@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    {
+      "chainId": 1,
+      "name": "Peace Network",
+      "address": "0x8c024cd50a94978537bde537a1fa25ad89444222",
+      "decimals": 18,
+      "symbol": "PC",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32116.png"
+    }
+  ]
+}
