@@ -1,0 +1,23 @@
+{
+  "name": "Coinmarketcap",
+  "timestamp": "2024-09-29T18:08:00.336596Z",
+  "keywords": [
+    "null"
+  ],
+  "logoURI": "ipfs://QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx",
+  "version": {
+    "major": 541,
+    "minor": 1,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "name": "Peace Network",
+      "address": "0x8c024cd50a94978537bde537a1fa25ad89444222",
+      "decimals": 18,
+      "symbol": "PC",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32116.png"
+    }
+  ]
+}
